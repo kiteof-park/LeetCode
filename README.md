@@ -11,9 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ├────  📂 /problem
 │      ├──── problem.java
 │      ├──── README.md
-│      ├──── solve.md
 ````
 - 📂 problem
   - 📄 problem.java : 문제 풀이 소스 코드
-  - 📄 README.md : LeetCode 문제
-  - 📄 solve.md : 해설
+  - 📄 README.md : LeetCode 문제 및 해설
