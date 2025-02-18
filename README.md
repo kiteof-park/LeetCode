@@ -18,3 +18,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - 📂 problem
   - 📄 problem.java : 문제 풀이 소스 코드
   - 📄 README.md : LeetCode 문제 및 해설
+  - 📄 note.md : `자바 알고리즘 인터뷰 with 코틀린` 해설 및 노트 정리
