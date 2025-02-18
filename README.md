@@ -1,7 +1,7 @@
 # LeetCode
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 <div>
-  <img src ="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791189909550.jpg" width = 80%>
+  <img src ="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791189909550.jpg" width = 20%>
 </div>
 
 ## 우당탕탕 LeetCode 도전기👻
